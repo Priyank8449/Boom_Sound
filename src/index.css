@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+    --primary: #aa6d6b;
+    --brand-dark: #151616;
+}
+
+.container {
+    display: flex;
+}
+
+
+.text-banner{
+    background: linear-gradient(#aa6d6b,#c98583a1);
+}
+
+.footer-bg{
+    background: linear-gradient(rgb(0, 0, 0),rgb(128, 128, 128));
+}
